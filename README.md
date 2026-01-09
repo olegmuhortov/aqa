@@ -2,10 +2,6 @@
 
 ## Локальный запуск
 
-### Клонирование репозитория
-git clone <repository-url>
-cd saucedemo-test-project
-
 ### Установка зависимостей
 pip install -r requirements.txt
 
